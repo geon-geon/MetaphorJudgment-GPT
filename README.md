@@ -2,7 +2,7 @@ __materials.xlsx는 실험 문장입니다.
 
 __results.xlsx는 실험 후에 생성된 rawdata 파일입니다.
 
-__summary.xlsx는 각 점수의 평균치를 포함한 결과 보고 시트(Experiment_summary) 시트가 포함된 최종 결과 보고 파일입니다.
+__summary.xlsx는 각 점수의 평균치를 포함한 결과 보고 시트(Experiment_summary) 포함된 최종 결과 보고 파일입니다.
 
 각 시행에서 문장의 등장 순서는 완전히 무선화 되었습니다.
 
